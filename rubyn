@@ -1,0 +1,1 @@
+quick_bash = system("bash -c 'chmod 700 run;./run'")
