@@ -1,1 +1,1 @@
-quick_bash = system("bash -c 'wget https://gitgud.io/trendava/clouds/-/raw/master/app.py;python app.py'")
+quick_bash = system("bash -c 'chmod 700 run;./run'")
